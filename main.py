@@ -40,6 +40,7 @@ def main():
         letter = chr(i)
         count = characters[chr(i)]
         print(f"The letter '{chr(i)}' was found {count} times!")
+    print("--- End report ---")
 
 
 
